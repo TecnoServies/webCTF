@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /hidden-flag
+
+# Hint: هل تبحث في المكان الصحيح؟
